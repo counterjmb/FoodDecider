@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Restaurants>
+	<Restaurant Name="La Mesa">
+		<Price>$</Price> 
+		<Type>Mexican</Type> 
+		<Location>84th st</Location>
+	</Restaurant>	
+	<Restaurant Name="Sushi Blue">
+		<Price>$$$</Price>
+		<Type>Japanese</Type>
+		<Location>Old Market</Location>
+	</Restaurant>
+	<Restaurant Name="Kona Grill">
+		<Price>$$$</Price>
+		<Type>east/west</Type>
+		<Location>Village Point</Location>
+	</Restaurant>
+	<Restaurant Name="McDonalds">
+		<Price>$</Price>
+		<Type>fast food</Type>
+		<Location>everywhere</Location>
+	</Restaurant>
+<Restaurant Name="The Stinking Rose">
+<Price>$$$</Price>
+<Type>Italian</Type>
+<Location>San Francisco</Location>
+</Restaurant>
+</Restaurants>
